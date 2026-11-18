@@ -145,7 +145,8 @@ new.html
 </html>
 '''
 # OUTPUT:
-<img width="1920" height="1080" alt="WEB EXP-1" src="https://github.com/user-attachments/assets/5a47b713-042a-4ff5-88ed-1f97029384ac" />
+<img width="1920" height="1080" alt="WEB EXP-1" src="https://github.com/user-attachments/assets/08eaa660-e047-406d-9987-71924d8610af" />
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
